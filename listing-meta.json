@@ -1,0 +1,21 @@
+{
+  "slug": "slidegen-agent",
+  "repo": "slidegen-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/slidegen-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "slides",
+    "image-generation",
+    "presentations",
+    "slidegen"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/slidegen-agent"
+}
